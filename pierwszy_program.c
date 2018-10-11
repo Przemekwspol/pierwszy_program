@@ -2,6 +2,7 @@
 
 void main(void){
 
-	puts("Ala ma kota");
+	puts("Ala ma kota a kot ma ale");
+	puts("ala ma kota");
 
 }
